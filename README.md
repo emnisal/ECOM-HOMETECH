@@ -1,2 +1,1 @@
-# Hometeq-Website
-A sample e-commerce website done using PHP,HTML and CSS
+E- Commerce platform for your home needs
